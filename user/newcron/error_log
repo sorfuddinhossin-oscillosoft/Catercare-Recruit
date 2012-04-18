@@ -1,0 +1,6 @@
+[18-Mar-2012 00:17:11] PHP Warning:  XMLReader::XML() [<a href='xmlreader.xml'>xmlreader.xml</a>]: Empty string supplied as input in /home/oscint/public_html/catercare/class/xml.class.php on line 31
+[18-Mar-2012 00:17:11] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: Load Data before trying to read in /home/oscint/public_html/catercare/class/xml.class.php on line 72
+[19-Mar-2012 00:00:12] PHP Warning:  XMLReader::XML() [<a href='xmlreader.xml'>xmlreader.xml</a>]: Empty string supplied as input in /home/oscint/public_html/catercare/class/xml.class.php on line 31
+[19-Mar-2012 00:00:12] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: Load Data before trying to read in /home/oscint/public_html/catercare/class/xml.class.php on line 72
+[13-Apr-2012 22:00:26] PHP Warning:  XMLReader::XML() [<a href='xmlreader.xml'>xmlreader.xml</a>]: Empty string supplied as input in /home/oscint/public_html/catercare/class/xml.class.php on line 31
+[13-Apr-2012 22:00:26] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: Load Data before trying to read in /home/oscint/public_html/catercare/class/xml.class.php on line 72

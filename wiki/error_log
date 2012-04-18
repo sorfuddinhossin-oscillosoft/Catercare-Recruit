@@ -1,0 +1,10 @@
+[13-Oct-2011 17:57:06] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 82
+[13-Oct-2011 18:01:11] PHP Parse error:  syntax error, unexpected '}' in /home/oscillos/public_html/jobs/wiki/job.php on line 853
+[13-Oct-2011 18:05:43] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 82
+[13-Oct-2011 18:06:05] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 82
+[13-Oct-2011 18:08:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 82
+[25-Jan-2012 16:38:24] PHP Warning:  Invalid argument supplied for foreach() in /home/oscillos/public_html/jobs/wiki/job.php on line 490
+[27-Feb-2012 21:23:48] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: http://jobs.oscillosoft.com/user/xml/plugin_1.xml:1: parser error : Extra content at the end of the document in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 103
+[27-Feb-2012 21:23:48] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]:  in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 103
+[27-Feb-2012 21:23:48] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: ^ in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 103
+[27-Feb-2012 21:23:48] PHP Warning:  XMLReader::read() [<a href='xmlreader.read'>xmlreader.read</a>]: An Error Occured while reading in /home/oscillos/public_html/jobs/wiki/xmlReader.php on line 103
